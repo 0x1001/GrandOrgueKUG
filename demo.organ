@@ -25,6 +25,7 @@
 
 [Organ]
 ChurchName=GrandOrgue demo V1
+OrganBuilder=GrandOrgue contributors
 ChurchAddress=GO demo
 OrganComments=published under the GPLv2 and the CC BY-SA 2.5
 RecordingDetails=Recordings by Lars Palo
